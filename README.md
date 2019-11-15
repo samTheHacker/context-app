@@ -69,5 +69,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 =======
 # context-app
-context practise
+context practis
 >>>>>>> 795cfac55232695e9174c79069bb686aecd1fe61
